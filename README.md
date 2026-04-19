@@ -10,3 +10,7 @@ My name is Davi, and I'm a developer and hacker from Brazil.
 🎯 Goals: Become a better developer and build impactful projects<br>
 🎲 Fun fact: I enjoy playing chess, spending time with my family, and going to the beach
 </p>
+<p>
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="48">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/330px-ISO_C%2B%2B_Logo.svg.png" width="40">
+</p>
