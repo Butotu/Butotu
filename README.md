@@ -3,7 +3,7 @@
 <p align="left">
 My name is Davi, and I'm a developer and hacker from Brazil.
 </p>
-
+//----//
 <h2 align="left">About me</h2>
 <p align="left">
 ✨ Creating bugs since I started coding 😅<br>
