@@ -11,6 +11,6 @@ My name is Davi, and I'm a developer and hacker from Brazil.
 🎲 Fun fact: I enjoy playing chess, spending time with my family, and going to the beach
 </p>
 <p>
-  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="45">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/330px-ISO_C%2B%2B_Logo.svg.png" width="38">
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="43">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/330px-ISO_C%2B%2B_Logo.svg.png" width="35">
   <img src="https://freepngimg.com/download/anonymous/36162-1-anonymous-transparent.png" width="40">
