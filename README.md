@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá!</h1>
 
 <p align="left">
 Meu nome é <b>Davi</b>, e sou um desenvolvedor e hacker do Brasil. 🇧🇷
